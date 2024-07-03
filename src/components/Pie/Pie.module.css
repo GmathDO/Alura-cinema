@@ -1,0 +1,21 @@
+.pie{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    background-color: black;
+}
+
+.textoPie{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.pie span{
+    font-size: 20px;
+    color: white;
+}
+
+.pie img{
+    width: 40px;
+}
